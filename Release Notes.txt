@@ -1,0 +1,7 @@
+Version 1.02
+I added more to the story and gave a purpose to the big star flying around space. This was suggested to me by multiple people during playtesting, so I wanted to implement that immediately. I was already planning on adding another room and sounds, so the changes that were direct responses to playtesting were solely the dialogue and story.
+
+Added sounds to dialogue and rooms.
+Changed npc dialogue.
+Added black hole room.
+Added little star tasks 
